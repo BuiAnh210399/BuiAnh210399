@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Buianh
-- 🌱 I’m currently learning industrial control
-
+- 🌱 I’m currently learning industrial control at Le Quy Don University, another name is Military Technical Academy (MTA).
 
 <!---
 BuiAnh210399/BuiAnh210399 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
